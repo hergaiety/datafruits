@@ -2468,21 +2468,6 @@ broccoli-babel-transpiler@^5.6.2:
     rsvp "^3.5.0"
     workerpool "^2.3.0"
 
-broccoli-babel-transpiler@^6.0.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/broccoli-babel-transpiler/-/broccoli-babel-transpiler-6.5.0.tgz#aa501a227b298a99742fdd0309b1eaad7124bba0"
-  dependencies:
-    babel-core "^6.26.0"
-    broccoli-funnel "^2.0.1"
-    broccoli-merge-trees "^2.0.0"
-    broccoli-persistent-filter "^1.4.3"
-    clone "^2.0.0"
-    hash-for-dep "^1.2.3"
-    heimdalljs-logger "^0.1.7"
-    json-stable-stringify "^1.0.0"
-    rsvp "^4.8.2"
-    workerpool "^2.3.0"
-
 broccoli-babel-transpiler@^6.5.0:
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/broccoli-babel-transpiler/-/broccoli-babel-transpiler-6.5.1.tgz#a4afc8d3b59b441518eb9a07bd44149476e30738"
@@ -2520,6 +2505,23 @@ broccoli-babel-transpiler@^7.1.0:
   integrity sha512-iZE6yxDcEe4XSMEyqyyS+wtkNAsPUGJNleJoVu26Vt2Al8/GqRI5+wc7qquPb71I1W7AtqbkaqsgDFDqBoIYKw==
   dependencies:
     "@babel/core" "^7.0.0"
+    broccoli-funnel "^2.0.1"
+    broccoli-merge-trees "^3.0.0"
+    broccoli-persistent-filter "^1.4.3"
+    clone "^2.1.2"
+    hash-for-dep "^1.2.3"
+    heimdalljs-logger "^0.1.9"
+    json-stable-stringify "^1.0.1"
+    rsvp "^4.8.3"
+    workerpool "^2.3.1"
+
+broccoli-babel-transpiler@^7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/broccoli-babel-transpiler/-/broccoli-babel-transpiler-7.1.2.tgz#fb5d6f8b9a805627ac3f2914ac9d86e82ca2413b"
+  integrity sha512-rljx86xgZJ2BjWt+xCSVfvyt3ONpCdMMXzMpeeVpAGdBHj3bqQICdPHZDAbzn1vKY/LIPsJZftvdxql1jiLGzw==
+  dependencies:
+    "@babel/core" "^7.0.0"
+    "@babel/polyfill" "^7.0.0"
     broccoli-funnel "^2.0.1"
     broccoli-merge-trees "^3.0.0"
     broccoli-persistent-filter "^1.4.3"
