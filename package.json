@@ -70,7 +70,7 @@
     "@ember/jquery": "^0.5.2",
     "@ember/optional-features": "^0.6.3",
     "babel-eslint": "^10.0.1",
-    "ember-auto-import": "1.2.18",
+    "ember-auto-import": "1.4.1",
     "ember-cli": "~3.9.0",
     "ember-cli-moment-shim": "^3.7.1",
     "ember-cli-pagination": "^3.1.3",
