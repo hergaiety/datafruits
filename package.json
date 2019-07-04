@@ -84,7 +84,7 @@
     "ember-qunit": "4.4.1",
     "ember-rollbar-client": "^0.8.0",
     "ember-truth-helpers": "2.1.0",
-    "phoenix": "1.2",
+    "phoenix": "~1.4.9",
     "qunit-dom": "^0.8.0",
     "sass": "^1.14.1"
   }
