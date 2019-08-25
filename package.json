@@ -67,7 +67,7 @@
   "private": true,
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.0.3",
     "ember-auto-import": "1.2.18",
     "ember-cli": "~3.10.1",
     "ember-cli-moment-shim": "^3.7.1",
