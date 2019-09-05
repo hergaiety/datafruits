@@ -84,7 +84,7 @@
     "ember-rollbar-client": "^0.8.0",
     "ember-truth-helpers": "2.1.0",
     "eslint-plugin-node": "^9.0.1",
-    "phoenix": "1.2",
+    "phoenix": "~1.4.10",
     "qunit-dom": "^0.8.4",
     "sass": "^1.14.1"
   }
