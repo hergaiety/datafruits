@@ -91,7 +91,7 @@
     "ember-truth-helpers": "2.1.0",
     "eslint-plugin-node": "^9.0.1",
     "phoenix": "1.2",
-    "qunit-dom": "^0.8.4",
+    "qunit-dom": "^0.9.1",
     "sass": "^1.14.1"
   }
 }
