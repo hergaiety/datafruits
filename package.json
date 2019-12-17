@@ -16,7 +16,7 @@
     "test": "ember test"
   },
   "dependencies": {
-    "@bugsnag/js": "^6.4.3",
+    "@bugsnag/js": "^6.5.0",
     "active-model-adapter": "^2.2.0",
     "autolink-js": "^1.0.2",
     "broccoli-asset-rev": "^3.0.0",
